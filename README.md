@@ -1,5 +1,5 @@
 # PetaWars-The-Game
-This is my final project for a game development class. Peta Wars, made with two of my class mates(Tristan, Iana).
+This is my final project for a game development class. Peta Wars, made with two of my class mates(Tristan Lafleur(Trim0500) and Iana(Iana Shapovalova).
 
 To run the game simply install this as a zip and unzip to then run the PETA Wars.exe file.
 
